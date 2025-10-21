@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Table, Button, Input, Select, Tag, Space, Modal, Form, Switch, message } from 'antd';
-import { PlusOutlined, SearchOutlined, EditOutlined, DeleteOutlined, KeyOutlined } from '@ant-design/icons';
+import { PlusOutlined, SearchOutlined, EditOutlined, DeleteOutlined, KeyOutlined, UserOutlined } from '@ant-design/icons';
 import type { ColumnsType } from 'antd/es/table';
 
 const { Search } = Input;

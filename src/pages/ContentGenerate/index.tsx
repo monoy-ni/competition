@@ -6,7 +6,8 @@ import {
   SettingOutlined,
   BulbOutlined,
   BookOutlined,
-  GlobalOutlined
+  GlobalOutlined,
+  RobotOutlined
 } from '@ant-design/icons';
 import { mockService } from '@/services/supabase';
 
